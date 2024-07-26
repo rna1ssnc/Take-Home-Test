@@ -11,25 +11,30 @@
         <h1>Bored API Utility</h1>
     </header>
     <main>
-        <table id="data-table">
+        <table id="data-table" aria-describedby="table-description">
+            <caption id="table-description">Table displaying activities with their details from the Bored API.</caption>
             <thead>
                 <tr>
+                    <th>Accessibility</th>
                     <th>Activity</th>
-                    <th>Type</th>
+                    <th>Availability</th>
+                    <th>Duration</th>
+                    <th>Key</th>
+                    <th>Kid Friendly</th>
+                    <th>Link</th>
                     <th>Participants</th>
                     <th>Price</th>
-                    <th>Link</th>
-                    <th>Key</th>
-                    <th>Accessibility</th>
+                    <th>Type</th>
                 </tr>
             </thead>
             <tbody>
+                <!-- Data rows will be inserted here dynamically -->
             </tbody>
         </table>
         <div class="buttons">
-            <button id="download-json">Download JSON</button>
-            <button id="download-csv">Download CSV</button>
-            <button id="print-console">Print to Console</button>
+            <button id="download-json" aria-label="Download data as JSON file">Download JSON</button>
+            <button id="download-csv" aria-label="Download data as CSV file">Download CSV</button>
+            <button id="print-console" aria-label="Print data to console">Print to Console</button>
         </div>
     </main>
     <script src="script.js"></script>
