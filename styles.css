@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    padding: 1em;
+}
+
+main {
+    padding: 1em;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: purple;
+    color: white;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    border-radius: 10px ;
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+}

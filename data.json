@@ -1,0 +1,122 @@
+[
+  {
+    "activity": "Donate blood at a local blood center",
+    "availability": 0.35,
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Minor challenges",
+    "duration": "minutes",
+    "kidFriendly": false,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "6509779"
+  },
+  {
+    "activity": "Contribute code or a monetary donation to an open-source software project",
+    "availability": 0,
+    "type": "charity",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "7687030"
+  },
+  {
+    "activity": "Try a food you don't like",
+    "availability": 0.05,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "6693574"
+  },
+  {
+    "activity": "Buy a new house decoration",
+    "availability": 0.3,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.4,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "3456114"
+  },
+  {
+    "activity": "Clean out your closet and donate the clothes you've outgrown",
+    "availability": 0.1,
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "9026787"
+  },
+  {
+    "activity": "Create a personal website",
+    "availability": 0.12,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Minor challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "3141417"
+  },
+  {
+    "activity": "Learn how to use an Arduino",
+    "availability": 0.7,
+    "type": "education",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "8264223"
+  },
+  {
+    "activity": "Sit in the dark and listen to your favorite music with no distractions",
+    "availability": 1,
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": false,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "9908721"
+  },
+  {
+    "activity": "Conquer one of your fears",
+    "availability": 0.1,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "8344539"
+  },
+  {
+    "activity": "Learn how to use a french press",
+    "availability": 0.3,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "4522866"
+  }
+]
