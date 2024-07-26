@@ -1,0 +1,122 @@
+[
+  {
+    "activity": "Fix something that's broken in your house",
+    "availability": 0.3,
+    "type": "diy",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Minor challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "",
+    "key": "6925988"
+  },
+  {
+    "activity": "Take a bubble bath",
+    "availability": 0.1,
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.15,
+    "accessibility": "'Minor challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "",
+    "key": "2581372"
+  },
+  {
+    "activity": "Start a webinar on a topic of your choice",
+    "availability": 0.9,
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Few to no challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "",
+    "key": "6826029"
+  },
+  {
+    "activity": "Meditate for five minutes",
+    "availability": 0.05,
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "",
+    "key": "3699502"
+  },
+  {
+    "activity": "Go to the gym",
+    "availability": 0.1,
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": "Minor challenges",
+    "duration": "hours",
+    "kidFriendly": false,
+    "link": "",
+    "key": "4387026"
+  },
+  {
+    "activity": "Make a scrapbook with pictures of your favorite memories",
+    "availability": 0.1,
+    "type": "diy",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Few to no challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "",
+    "key": "5554174"
+  },
+  {
+    "activity": "Create and follow a savings plan",
+    "availability": 0.2,
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "",
+    "key": "9366464"
+  },
+  {
+    "activity": "Learn to play a new instrument",
+    "availability": 0.6,
+    "type": "music",
+    "participants": 1,
+    "price": 0.55,
+    "accessibility": "Major challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "",
+    "key": "3192099"
+  },
+  {
+    "activity": "Go on a long drive with no music",
+    "availability": 0.2,
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": "Minor challenges",
+    "duration": "hours",
+    "kidFriendly": true,
+    "link": "",
+    "key": "4290333"
+  },
+  {
+    "activity": "Donate to your local food bank",
+    "availability": 0.8,
+    "type": "charity",
+    "participants": 1,
+    "price": 0.5,
+    "accessibility": "Few to no challenges",
+    "duration": "minutes",
+    "kidFriendly": true,
+    "link": "",
+    "key": "4150284"
+  }
+]
